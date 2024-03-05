@@ -58,7 +58,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[Expo Linking](https://docs.expo.dev/versions/latest/sdk/linking/)**
 - **[Expo Google fonts](https://github.com/expo/google-fonts)**
 - **[React Native](https://reactnative.dev/)**
-- **[React Navigation](https://reactnavigation.org/)**
 - **[GestureHandler](https://docs.expo.dev/versions/latest/sdk/gesture-handler/)**
 - **[Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)**
 - **[NativeWind](https://www.nativewind.dev/v4/overview)**
